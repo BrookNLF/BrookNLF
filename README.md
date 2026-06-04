@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brook
-- 👀 I’m interested in Front-End Development, Formula 1 and 
-- 🌱 I’m currently learning JavaScript, next I will learn React
+- 👀 I’m interested in Cybersecurity, currently developing my skills via various certifications and THM!
+- 🌱 I’m currently learning everything on Defensive Security.
 - 📫 How to reach me: https://www.linkedin.com/in/kamil-ryncarz/
 
 <!---
