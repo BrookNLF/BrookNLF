@@ -1,4 +1,4 @@
-<h1 align="center">Brook</h1>
+<h1 align="center">Hello there, i'm Brook</h1>
 
 <p align="center"><i>Kamil Ryncarz</i></p>
 
