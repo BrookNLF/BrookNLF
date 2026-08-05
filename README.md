@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hello there, i'm Brook</h1>
 
 <p align="center"><i>Kamil Ryncarz</i></p>
@@ -130,3 +131,4 @@ Open to junior SOC analyst and blue team roles, and always up for comparing note
 <p align="center">
   <a href="https://www.linkedin.com/in/kamil-ryncarz/"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+</div>
