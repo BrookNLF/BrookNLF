@@ -41,7 +41,7 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 ## 🎯 TryHackMe - live
 
 <!-- THM:START -->
-WILL BE HERE, EVENTUALLY!
+<p align="center"><b>5</b>WILL BE HERE, EVENTUALLY!</p>
 <!-- THM:END -->
 
 ---
