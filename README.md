@@ -34,7 +34,7 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 | 3rd of August 2026 | **SEC0** - TryHackMe Pre Security |
 | 4th of August 2026 | **SEC1** - TryHackMe Cyber Security 101 |
 | August 2026 | SOC Level 1 path started, constantly solving various challenges on TryHackMe |
-| Next | SOC Level 1 · home lab build · CompTIA track |
+| Next | More Learning · MORE CTFS & MORE WRITEUPS · CompTIA track |
 
 ---
 
