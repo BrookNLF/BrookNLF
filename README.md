@@ -65,7 +65,7 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/users/kamil-ryncarz/badges/credly"><img src="https://img.shields.io/badge/ALL_BADGES_·_COURSES_·_CERTIFICATES-6E2C8F?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/kamil-ryncarz/details/certifications/"><img src="https://img.shields.io/badge/ALL_BADGES_·_COURSES_·_CERTIFICATES-6E2C8F?style=for-the-badge"></a>
 </p>
 
 ---
