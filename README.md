@@ -20,7 +20,7 @@ I spent the last years on the hiring side of IT - reading CVs, running screens, 
 
 Where that's got me so far: five certifications, TryHackMe's Cyber Security 101 finished, and a CTF room solved and written up most days. I'm working through the SOC Level 1 track now, learning Python and Bash, and building out a blue team home lab. A mentor already in the field has been steering the direction.
 
-The goal is defensive work - detection engineering, log analysis, incident response - and a junior SOC or blue team role by the end of 2026. I know where I am on that path: early, with a lot still to learn. Everything below is dated so you can see the pace for yourself rather than take my word for it.
+The goal is defensive work - detection engineering, log analysis, incident response - and a junior SOC or blue team role, I know where I am on that path: early, with a lot still to learn. Everything below is dated so you can see the pace for yourself rather than take my word for it.
 
 ---
 
