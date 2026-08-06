@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello there, i'm Brook</h1>
+<h1 align="center">Hello there, I'm Brook</h1>
 
 <p align="center"><i>Kamil Ryncarz</i></p>
 
@@ -42,7 +42,7 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 ## 🎯 TryHackMe - live
 
 <!-- THM:START -->
-<p align="center">WILL BE HERE, EVENTUALLY!</p>
+ <p align="center"> <a href="https://tryhackme.com/p/BrookGG"> <img src="https://raw.githubusercontent.com/BrookNLF/BrookNLF/main/assets/thm_badge.svg" alt="TryHackMe stats"/> </a> </p>
 <!-- THM:END -->
 
 ---
