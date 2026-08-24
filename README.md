@@ -82,7 +82,7 @@ Every room I solve gets a full writeup: recon, each step of the chain, what work
 | 06 | Overheard at Breakfast | OSINT · Easy | How much a single careless post gives away |
 | 05 | Beach Bar | Boot2root · Easy | My first ever pentesting room. Started from nothing |
 
-➡️ **[All writeups](./writeups)**
+➡️ **[All writeups](https://github.com/BrookNLF/tryhackme-room-writeups)**
 
 ---
 
