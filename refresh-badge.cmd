@@ -1,5 +1,6 @@
 @echo off
 cd /d C:\Users\PC\Documents\BrookNLF
+git pull --rebase
 set THM_USERNAME=BrookGG
 set THEME=midnight
 set OUTPUT_PATH=assets/thm_badge.svg
