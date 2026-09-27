@@ -3,7 +3,7 @@
 
 <p align="center"><i>Kamil Ryncarz</i></p>
 
-<h3 align="center">IT Recruiter → Blue Team · SOC Analyst Track · Daily CTF Writeups</h3>
+<h3 align="center">IT Recruiter → Blue Team · SOC / Security Analyst Track · CTF Writeups</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamil-ryncarz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -35,6 +35,8 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 | 3rd of August 2026 | **SEC0** - TryHackMe Pre Security |
 | 4th of August 2026 | **SEC1** - TryHackMe Cyber Security 101 |
 | August 2026 | SOC Level 1 path started, constantly solving various challenges on TryHackMe |
+| 22nd of September 2026 | Achieved Top 1% on TryHackMe |
+| 28th of September 2026 | Finished SOC Level 1 Path on TryHackMe|
 | Next | More Learning · MORE CTFS & MORE WRITEUPS · CompTIA track |
 
 ---
@@ -70,19 +72,39 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 
 ---
 
-## 📝 Writeups - the actual work
+## 🔍 Rooms I've worked through, and what came out of them
 
-Every room I solve gets a full writeup: recon, each step of the chain, what worked, what I got wrong, what I'd do differently. Most of these are offensive rooms (because I began doing writeups during Hacker Holidays 2026, which was red-team focused) - breaking things is the fastest way I've found to understand what defending them actually needs to catch.
+I write up every room I finish - the steps I took, the wrong turns, and what I'd do differently. Below are the ones that involve actual defensive work, because that's the job I'm going for. Each row links to the full writeup.
 
-| Day | Room | Category | What it taught me |
-|---|---|---|---|
-| 09 | CryptoCabana | Cloud · Medium | Leaked Azure SAS token to Key Vault secrets, and why secret versioning matters |
-| 08 | Towel on the Sunbed | Web · Medium | Race conditions, and parallel request grouping in Burp |
-| 07 | Do Not Disturb | Web · Medium | NoSQL auth bypass to SSTI RCE to a Node debugger pivot |
-| 06 | Overheard at Breakfast | OSINT · Easy | How much a single careless post gives away |
-| 05 | Beach Bar | Boot2root · Easy | My first ever pentesting room. Started from nothing |
+**SOC work - logs, traffic, phishing and forensics**
 
-➡️ **[All writeups](https://github.com/BrookNLF?tab=repositories)**
+| Room | Focus | What I did |
+|---|---|---|
+| [The Crown Jewel](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/first-shift-module/the-crown-jewel) | Splunk + PCAP | Reconstructed a reverse shell and the data theft that followed, from raw packet captures and Splunk logs |
+| [Portal Drop](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/first-shift-module/portal-drop) | Log analysis · EDR | Traced brute force to web shell to reverse shell to exfiltration, using web access logs and an EDR console |
+| [Packed Light](https://github.com/BrookNLF/THM-HackerHolidays-2026/tree/main/day-04-packed-light) | Network forensics | Found a covert channel hiding in HTTP traffic on port 8080, reassembled the smuggled data in Wireshark |
+| [Invite Only](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/invite-only) | Threat analysis | Turned two loose indicators, an IP and a file hash, into a written intel picture with the original report behind it |
+| [Just a VPN Login](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/first-shift-module/just-a-vpn-login) | CTI | Followed an impossible-travel VPN alert down to the stealer binary that actually caused it |
+| [Phishing Books](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/first-shift-module/phishing-books) | Phishing analysis | Pulled apart a raw .eml by hand and worked out exactly why SPF, DKIM and DMARC let it through |
+| [The Greenholt Phish](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/the-greenholt-phish) | Phishing analysis | Header and attachment analysis on a money-transfer email that nothing in the SIEM had flagged |
+| [Management Wants a Word](https://github.com/BrookNLF/THM-HackerHolidays-2026/tree/main/day-14-management-wants-a-word) | DFIR · Hard | Worked a full KAPE triage: LSA secret to DPAPI to a saved browser password to a hidden encrypted container |
+| [After Hours](https://github.com/BrookNLF/THM-HackerHolidays-2026/tree/main/day-12-after-hours) | Windows forensics | Found persistence living in the WMI repository, where the usual autorun checks never look |
+
+**OSINT and investigation**
+
+| Room | Difficulty | What I did |
+|---|---|---|
+| [Cache Me Outside](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/cache-me-outside) | Medium | Traced one person from a leaked Discord screenshot to a real place and date |
+| [Sakura](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/sakura) | Easy | Followed a single leftover image through social media, GitHub and a crypto wallet to identify the attacker |
+| [Digital Footprint](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/digital-footprint) | Easy | Reverse image search, EXIF, the Wayback Machine and document metadata across four linked tasks |
+| [Missing Person](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/missing-person) | Easy | Located someone from two holiday photos and nothing else |
+| [Letter](https://github.com/BrookNLF/tryhackme-room-writeups/tree/main/letter) | Easy | Pieced together a postal code and a full identity from a torn newspaper clipping |
+| [Overheard at Breakfast](https://github.com/BrookNLF/THM-HackerHolidays-2026/tree/main/day-06-overheard-at-breakfast) | Easy | Showed how much one careless message gives away |
+| [The Brochure](https://github.com/BrookNLF/THM-HackerHolidays-2026/tree/main/day-00-the-brochure) | Easy | Found what was hidden inside a PDF that looked like an ordinary marketing file |
+
+There's offensive work in those repos too - web exploitation, cloud, boot2root. I keep it up because breaking something is the fastest way I've found to understand what defending it has to catch.
+
+➡️ **[Room writeups](https://github.com/BrookNLF/tryhackme-room-writeups)** · **[Hacker Holidays 2026](https://github.com/BrookNLF/THM-HackerHolidays-2026)**
 
 ---
 
@@ -90,26 +112,50 @@ Every room I solve gets a full writeup: recon, each step of the chain, what work
 
 **Using regularly**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**SIEM and log analysis**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=flat&logo=splunk&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+
+**Network, endpoint and identity**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+**Analysis and detection**
+
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-F3762B?style=flat)
+![YARA](https://img.shields.io/badge/YARA-8A2BE2?style=flat)
+
+**Scripting and tooling**
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
 
 **Learning right now**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Google SecOps](https://img.shields.io/badge/Google_SecOps-4285F4?style=flat&logo=google&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR-6E2C8F?style=flat)
+![Snort](https://img.shields.io/badge/Snort-EE3124?style=flat)
 
 **Next up**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C99?style=flat)
 ![Suricata](https://img.shields.io/badge/Suricata-EE3124?style=flat)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat)
-
-Nothing listed here that I haven't touched. That felt important.
+![Zeek](https://img.shields.io/badge/Zeek-4B8BBE?style=flat)
+![Volatility](https://img.shields.io/badge/Volatility-2D2D2D?style=flat)
+![Security Copilot](https://img.shields.io/badge/Security_Copilot-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 ---
 
