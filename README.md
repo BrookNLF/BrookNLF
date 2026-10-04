@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/kamil-ryncarz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://tryhackme.com/p/BrookGG"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://www.credly.com/users/kamil-ryncarz/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=BrookNLF&style=for-the-badge&label=PROFILE+VIEWS&color=555555">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BrookNLF.BrookNLF&left_text=PROFILE%20VIEWS&left_color=555555&right_color=0A66C2" alt="Profile views">
 </p>
 
 ---
@@ -36,7 +36,7 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 | 4th of August 2026 | **SEC1** - TryHackMe Cyber Security 101 |
 | August 2026 | SOC Level 1 path started, constantly solving various challenges on TryHackMe |
 | 22nd of September 2026 | Achieved Top 1% on TryHackMe |
-| 28th of September 2026 | Finished SOC Level 1 Path on TryHackMe|
+| 4th of October 2026 | Finished SOC Level 1 Path on TryHackMe|
 | Next | More Learning · MORE CTFS & MORE WRITEUPS · CompTIA track |
 
 ---
