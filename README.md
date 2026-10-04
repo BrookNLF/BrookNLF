@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/kamil-ryncarz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://tryhackme.com/p/BrookGG"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://www.credly.com/users/kamil-ryncarz/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BrookNLF.BrookNLF&left_text=PROFILE%20VIEWS&left_color=555555&right_color=0A66C2" alt="Profile views">
 </p>
 
 ---
