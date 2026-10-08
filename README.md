@@ -33,7 +33,7 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 | 28th of July 2026 | **Google Cybersecurity Professional Certificate (v2)** |
 | 3rd of August 2026 | **SEC0** - TryHackMe Pre Security |
 | 4th of August 2026 | **SEC1** - TryHackMe Cyber Security 101 |
-| August 2026 | SOC Level 1 path started, constantly solving various challenges on TryHackMe |
+| 5th August 2026 | SOC Level 1 path started, constantly solving various challenges on TryHackMe |
 | 22nd of September 2026 | Achieved Top 1% on TryHackMe |
 | 4th of October 2026 | Finished SOC Level 1 Path on TryHackMe |
 | 6th of October 2026 | Began SOC Level 2 Path on TryHackMe |
