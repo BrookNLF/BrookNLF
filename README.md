@@ -13,11 +13,35 @@
 
 ---
 
+## 📜 Certifications
+
+<!-- CREDLY:START -->
+<p align="center"><b>6</b> verified certifications</p>
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/kamilryncarz-2875/credentials/1996571ef0b29aba" title="SC-900: Microsoft Security, Compliance and Identity Fundamentals"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="90" alt="SC-900"/></a>
+  <a href="https://www.credly.com/badges/86bc2dac-52bb-44ff-b174-351e4e9fca47/public_url" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="90" alt="Google Cybersecurity Professional Certificate V2"/></a>
+  <a href="https://www.credly.com/users/kamil-ryncarz/badges/credly" title="Pre Security (SEC0)"><img src="https://images.credly.com/images/4a4de480-0a93-47f3-ac6e-a10523c21938/blob" width="90" alt="Pre Security (SEC0)"/></a>
+  <a href="https://www.credly.com/badges/ba5739ea-2974-4ee2-b542-bacaca6bf3d5/public_url" title="Cyber Security 101 (SEC1)"><img src="https://images.credly.com/images/47f94746-a150-4f91-abc1-733b68b95504/blob" width="90" alt="Cyber Security 101 (SEC1)"/></a>
+  <a href="https://www.credly.com/badges/5f8bb1f5-b7e4-4735-8734-63cb0a8ccecd/public_url" title="Security Analyst Level 1 (SAL1)"><img src="https://images.credly.com/images/fc0df734-6716-45ba-8563-9fd0eba18373/blob" width="90" alt="Security Analyst Level 1 (SAL1)"/></a>
+  <a href="https://www.credly.com/users/kamil-ryncarz/badges/credly" title="AI Skills Fest 2026"><img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="90" alt="AI Skills Fest 2026"/></a>
+</p>
+<!-- CREDLY:END -->
+
+<p align="center">
+  <sub>AI Skills Fest · 19th of June 2026 &nbsp;|&nbsp; SC-900 · 22nd of July 2026 &nbsp;|&nbsp; Google Cybersecurity v2 · 28th of July 2026 &nbsp;|&nbsp; SEC0 · 3rd of August 2026 &nbsp;|&nbsp; SEC1 · 4th of August 2026 &nbsp;|&nbsp; SAL1 · 24th of October 2026</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamil-ryncarz/details/certifications/"><img src="https://img.shields.io/badge/ALL_BADGES_·_COURSES_·_CERTIFICATES-6E2C8F?style=for-the-badge"></a>
+</p>
+
+---
+
 ## Where I'm at right now
 
 I spent the last years on the hiring side of IT - reading CVs, running screens, deciding who moves forward. Somewhere in there I got more interested in the work than in the interviews about the work, so in June 2026 I started learning security properly. The 2nd of June, to be exact, and I've kept at it daily since.
 
-Where that's got me so far: five certifications, TryHackMe's Cyber Security 101 finished, and a CTF room solved and written up most days. I'm working through the SOC Level 1 track now, learning Python and Bash, and building out a blue team home lab. A mentor already in the field has been steering the direction.
+Where that's got me so far: six certifications, TryHackMe's Cyber Security 101 finished, and a CTF room solved and written up most days. I'm working through the SOC Level 1 track now, learning Python and Bash, and building out a blue team home lab. A mentor already in the field has been steering the direction.
 
 The goal is defensive work - detection engineering, log analysis, incident response - and a junior SOC or blue team role, I know where I am on that path: early, with a lot still to learn. Everything below is dated so you can see the pace for yourself rather than take my word for it.
 
@@ -37,6 +61,7 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 | 22nd of September 2026 | Achieved Top 1% on TryHackMe |
 | 4th of October 2026 | Finished SOC Level 1 Path on TryHackMe |
 | 6th of October 2026 | Began SOC Level 2 Path on TryHackMe |
+| 24th of October 2026 | **SAL1** - TryHackMe Security Analyst Level 1 |
 | Next | More Learning · MORE CTFS & MORE WRITEUPS · CompTIA track |
 
 ---
@@ -46,29 +71,6 @@ The goal is defensive work - detection engineering, log analysis, incident respo
 <!-- THM:START -->
  <p align="center"> <a href="https://tryhackme.com/p/BrookGG"> <img src="https://raw.githubusercontent.com/BrookNLF/BrookNLF/main/assets/thm_badge.svg" alt="TryHackMe stats"/> </a> </p>
 <!-- THM:END -->
-
----
-
-## 📜 Certifications
-
-<!-- CREDLY:START -->
-<p align="center"><b>5</b> verified certifications</p>
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/kamilryncarz-2875/credentials/1996571ef0b29aba" title="SC-900: Microsoft Security, Compliance and Identity Fundamentals"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="90" alt="SC-900"/></a>
-  <a href="https://www.credly.com/badges/86bc2dac-52bb-44ff-b174-351e4e9fca47/public_url" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="90" alt="Google Cybersecurity Professional Certificate V2"/></a>
-  <a href="https://www.credly.com/users/kamil-ryncarz/badges/credly" title="Pre Security (SEC0)"><img src="https://images.credly.com/images/4a4de480-0a93-47f3-ac6e-a10523c21938/blob" width="90" alt="Pre Security (SEC0)"/></a>
-  <a href="https://www.credly.com/badges/ba5739ea-2974-4ee2-b542-bacaca6bf3d5/public_url" title="Cyber Security 101 (SEC1)"><img src="https://images.credly.com/images/47f94746-a150-4f91-abc1-733b68b95504/blob" width="90" alt="Cyber Security 101 (SEC1)"/></a>
-  <a href="https://www.credly.com/users/kamil-ryncarz/badges/credly" title="AI Skills Fest 2026"><img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="90" alt="AI Skills Fest 2026"/></a>
-</p>
-<!-- CREDLY:END -->
-
-<p align="center">
-  <sub>AI Skills Fest · 19th of June 2026 &nbsp;|&nbsp; SC-900 · 22nd of July 2026 &nbsp;|&nbsp; Google Cybersecurity v2 · 28th of July 2026 &nbsp;|&nbsp; SEC0 · 3rd of August 2026 &nbsp;|&nbsp; SEC1 · 4th of August 2026</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kamil-ryncarz/details/certifications/"><img src="https://img.shields.io/badge/ALL_BADGES_·_COURSES_·_CERTIFICATES-6E2C8F?style=for-the-badge"></a>
-</p>
 
 ---
 
